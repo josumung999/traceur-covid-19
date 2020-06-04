@@ -1,5 +1,6 @@
 {
-  "name": "create-react-app-example",
+  "name": "traceur-covid-19",
+  "author": "Josue Munganga",
   "version": "0.1.0",
   "scripts": {
     "start": "react-scripts start",
@@ -8,7 +9,9 @@
     "eject": "react-scripts eject"
   },
   "dependencies": {
+    "@material-ui/core": "^4.10.1",
     "axios": "^0.19.2",
+    "chart.js": "^2.9.3",
     "classnames": "^2.2.6",
     "material-ui": "^0.20.2",
     "react": "^16.10.2",
