@@ -2,6 +2,7 @@
   "name": "traceur-covid-19",
   "author": "Josue Munganga",
   "version": "0.1.0",
+  "license": "MIT",
   "engines": {
     "npm": "6.14.5",
     "node": "12.17.0"
